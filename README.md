@@ -42,10 +42,9 @@
 
 ---
 
-## My ThinkPad T14 Gen 4
+# My ThinkPad T14 Gen 4
 
-🗄️ Core System
-
+### 🗄️ Core System
 - NixOS flakes
 - Linux Zen kernel
 - systemd-boot
@@ -54,8 +53,7 @@
 - CPU frequency scaling
 - Plymouth + custom theme
 
-🔐 Security Stack
-
+### 🔐 Security Stack
 - MAC randomization via systemd-service
 - DNSCrypt-proxy2 с forced DNSSEC
 - Cloudflare + NextDNS + Quad9
@@ -66,16 +64,14 @@
 - ClamAV + chkrootkit
 - PolKit + PAM + U2F
 
-💾 Storage & Backup
-
+### 💾 Storage & Backup
 - LUKS2 encryption
 - BTRFS with LUKS
 - Snapper auto-snapshots every 2 hour
 - Subvolumes for /, /home, /nix, /var, snapshots
 - zRAM for swap
 
-🖥️ Desktop Stack
-
+### 🖥️ Desktop Stack
 - Hyprland (Wayland compositor)
 - WezTerm
 - Neovim
@@ -85,8 +81,7 @@
 - Hardware acceleration via VA-API
 - Pipewire for audio
 
-🐋 Dev Stack
-
+### 🐋 Dev Stack
 - Podman (rootless) for containers
 - Rust nightly + cargo-* toolchain
 - Python, Go, Node, Zig, Lua
