@@ -106,5 +106,3 @@
   - qwen2.5-coder, llava-llama3
   - phi3.5
 - Tools: oterm, alpaca, tgpt
-
----
