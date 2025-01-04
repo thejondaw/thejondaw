@@ -46,50 +46,50 @@
 
 🗄️ Core System
 
-NixOS flakes
-Linux Zen kernel
-systemd-boot
-iwd for WiFi
-Auto TRIM + auto GC
-CPU frequency scaling
-Plymouth + custom theme
+- NixOS flakes
+- Linux Zen kernel
+- systemd-boot
+- iwd for WiFi
+- Auto TRIM + auto GC
+- CPU frequency scaling
+- Plymouth + custom theme
 
 🔐 Security Stack
 
-MAC randomization via systemd-service
-DNSCrypt-proxy2 с forced DNSSEC
-Cloudflare + NextDNS + Quad9
-Mullvad VPN with killswitch
-USB Guard with white list of devices
-SELinux + AppArmor + Firejail
-TPM2 + SecureBoot
-ClamAV + chkrootkit
-PolKit + PAM + U2F
+- MAC randomization via systemd-service
+- DNSCrypt-proxy2 с forced DNSSEC
+- Cloudflare + NextDNS + Quad9
+- Mullvad VPN with killswitch
+- USB Guard with white list of devices
+- SELinux + AppArmor + Firejail
+- TPM2 + SecureBoot
+- ClamAV + chkrootkit
+- PolKit + PAM + U2F
 
 💾 Storage & Backup
 
-LUKS2 encryption
-BTRFS with LUKS
-Snapper auto-snapshots every 2 hour
-Subvolumes for /, /home, /nix, /var, snapshots
-zRAM for swap
+- LUKS2 encryption
+- BTRFS with LUKS
+- Snapper auto-snapshots every 2 hour
+- Subvolumes for /, /home, /nix, /var, snapshots
+- zRAM for swap
 
 🖥️ Desktop Stack
 
-Hyprland (Wayland compositor)
-WezTerm
-Neovim
-Zellij
-Fish Shell
-Catppuccin Macchiato Theme
-Hardware acceleration via VA-API
-Pipewire for audio
+- Hyprland (Wayland compositor)
+- WezTerm
+- Neovim
+- Zellij
+- Fish Shell
+- Catppuccin Macchiato Theme
+- Hardware acceleration via VA-API
+- Pipewire for audio
 
 🐋 Dev Stack
 
-Podman (rootless) for containers
-Rust nightly + cargo-* toolchain
-Python, Go, Node, Zig, Lua
-LSP + copilot everywhere
-VSCodium under firejail
-Distrobox for legacy software
+- Podman (rootless) for containers
+- Rust nightly + cargo-* toolchain
+- Python, Go, Node, Zig, Lua
+- LSP + copilot everywhere
+- VSCodium under firejail
+- Distrobox for legacy software
