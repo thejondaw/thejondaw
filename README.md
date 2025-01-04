@@ -89,11 +89,8 @@
 - Pass + Browserpass
 - TPM2 + Fingerprint + Yubikey
 
-### 💭 Development
-- Rust (nightly toolchain)
-- Python 3.12, Node.js, Bun, Go
-- Zig, Lua, WASM
-- LSP Support
+### 💭 Code
+- HCL, YAML, JSON, Bash, Python, Go
 - VSCodium, NeoVim
 - Git + lazygit
 
@@ -102,10 +99,3 @@
 - Zellij + Starship
 - Core Utils: fzf, ripgrep, fd, bat
 - Monitoring: btm, bandwhich, gping
-
-### 🤖 AI/LLM
-- Ollama Models:
-  - llama3.2, dolphin-llama3
-  - qwen2.5-coder, llava-llama3
-  - phi3.5
-- Tools: oterm, alpaca, tgpt
