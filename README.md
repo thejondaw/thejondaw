@@ -1,6 +1,6 @@
 <div align="center">
 
-# DevOps Engineer: Stack
+# DevSecOps Engineer: STACK
 
 </div>
 
@@ -59,6 +59,22 @@
 | Microsoft Azure Fundamentals | Microsoft | AZ-900 |
 | AWS Solution Architect | Amazon | Associate |
 | AWS Cloud Practitioner | Amazon | - |
+
+</div>
+
+---
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejondaw&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thejondaw&theme=dark"/>
+</div>
+
+<div align="center">
+
+### 📫 Contacts
+
+[![Telegram](https://img.shields.io/badge/-telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white&labelColor=0088cc)](https://t.me/jondaw)
+[![ProtonMail](https://img.shields.io/badge/-protonmail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&labelColor=505061)](mailto:aleks.safronov@proton.me)
 
 </div>
 
