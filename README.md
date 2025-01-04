@@ -47,46 +47,41 @@
 
 ---
 
-# My ThinkPad T14 Gen 4
+# My Setup
 
-### 🗄️ Core System
-- NixOS: Flakes, Home Manager. UnFree packages, Stable branch
-- systemd-boot
-- iwd for WiFi
-- Auto TRIM + auto GC
-- CPU frequency scaling
-- Plymouth + custom theme
+### 💻 Operating System
+- NixOS 24.11 (Hyprland + Wayland)
+- Linux Zen Kernel
+- Thinkpad T14 Gen 4
 
-### 🔐 Security Stack
-- MAC randomization via systemd-service
-- DNSCrypt-proxy2 с forced DNSSEC
-- Cloudflare + NextDNS + Quad9
-- Mullvad VPN with killswitch
-- USB Guard with white list of devices
-- SELinux + AppArmor + Firejail
-- TPM2 + SecureBoot
-- ClamAV + chkrootkit
-- PolKit + PAM + U2F
+### 🛡️ Security & Privacy
+- LUKS Encryption + BTRFS
+- Snapper auto snapshots
+- SELinux + AppArmor
+- Firejail Sandboxing
+- ClamAV + Fail2ban
+- USBGuard + MAC Randomization
+- DNSCrypt + Mullvad VPN
+- Pass + Browserpass
+- TPM2 + Fingerprint + Yubikey
 
-### 💾 Storage & Backup
-- BTRFS with LUKS2 encryption
-- Snapper auto-snapshots every 2 hour
-- Subvolumes for /, /home, /nix, /var, snapshots
-- zRAM for swap
+### 💭 Development
+- Rust (nightly toolchain)
+- Python 3.12, Node.js, Bun, Go
+- Zig, Lua, WASM
+- LSP Support
+- VSCodium, NeoVim
+- Git + lazygit
 
-### 🖥️ Desktop Stack
-- Hyprland (Wayland compositor)
-- WezTerm
-- NeoVim
-- Zellij
-- Fish Shell
-- Hardware acceleration via VA-API
-- Pipewire
+### 🖥️ Terminal
+- WezTerm + Fish Shell
+- Zellij + Starship
+- Core Utils: fzf, ripgrep, fd, bat
+- Monitoring: btm, bandwhich, gping
 
-### 🐋 Dev Stack
-- Podman (rootless) for containers
-- Rust nightly + cargo-* toolchain
-- Python, Go, Node, Zig, Lua
-- LSP + copilot everywhere
-- VSCodium under firejail
-- Distrobox for legacy software
+### 🤖 AI/LLM
+- Ollama Models:
+ - llama3.2, dolphin-llama3
+ - qwen2.5-coder, llava-llama3
+ - phi3.5
+- Tools: oterm, alpaca, tgpt
