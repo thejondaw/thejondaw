@@ -50,13 +50,6 @@
 | AWS Solution Architect | Amazon | Associate |
 | AWS Cloud Practitioner | Amazon | - |
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thejondaw&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thejondaw&layout=compact&theme=dark&hide_border=true)
-  
-</div>
-
 ---
 
 # My Setup
@@ -102,44 +95,3 @@
 - Email: aleks.safronov@proton.me
 - GitHub: thejondaw
 - Location: Chicago, IL
-
----
-
-# My Setup
-
-### 💻 Operating System
-- NixOS 24.11 (Hyprland + Wayland)
-- Linux Zen Kernel
-- Thinkpad T14 Gen 4
-
-### 🛡️ Security & Privacy
-- LUKS Encryption + BTRFS
-- Snapper auto snapshots
-- SELinux + AppArmor
-- Firejail Sandboxing
-- ClamAV + Fail2ban
-- USBGuard + MAC Randomization
-- DNSCrypt + Mullvad VPN
-- Pass + Browserpass
-- TPM2 + Fingerprint + Yubikey
-
-### 💭 Development
-- Rust (nightly toolchain)
-- Python 3.12, Node.js, Bun, Go
-- Zig, Lua, WASM
-- LSP Support
-- VSCodium, NeoVim
-- Git + lazygit
-
-### 🖥️ Terminal
-- WezTerm + Fish Shell
-- Zellij + Starship
-- Core Utils: fzf, ripgrep, fd, bat
-- Monitoring: btm, bandwhich, gping
-
-### 🤖 AI/LLM
-- Ollama Models:
- - llama3.2, dolphin-llama3
- - qwen2.5-coder, llava-llama3
- - phi3.5
-- Tools: oterm, alpaca, tgpt
