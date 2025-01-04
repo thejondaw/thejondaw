@@ -1,4 +1,10 @@
-# DevOps Engineer - Stack
+<div align="center">
+
+# DevOps Engineer: Stack
+
+</div>
+
+<div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
@@ -11,6 +17,8 @@
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
+</div>
 
 ### ☁️ Infrastructure & Cloud
 - Amazon Web Services, Microsoft Azure
@@ -39,6 +47,8 @@
 
 ### 🏆 Certifications
 
+<div align="center">
+
 | Certification | Organization | ID/Level |
 |--------------|------------|----------|
 | Certified Kubernetes Security Specialist | Linux Foundation | CKS |
@@ -50,9 +60,15 @@
 | AWS Solution Architect | Amazon | Associate |
 | AWS Cloud Practitioner | Amazon | - |
 
+</div>
+
 ---
 
+<div align="center">
+
 # My Setup
+
+</div>
 
 ### 💻 Operating System
 - NixOS 24.11 (Hyprland + Wayland)
@@ -91,7 +107,4 @@
   - phi3.5
 - Tools: oterm, alpaca, tgpt
 
-### 📫 Contact
-- Email: aleks.safronov@proton.me
-- GitHub: thejondaw
-- Location: Chicago, IL
+---
