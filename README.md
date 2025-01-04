@@ -1,39 +1,44 @@
-# DevOps Engineer
+# DevOps Engineer - Stack
 
 ### ☁️ Infrastructure & Cloud
-- AWS (VPC, EKS, Aurora, CloudWatch), Azure
-- Terraform, Ansible
-- NixOS, Linux (Debian, Fedora, OpenSUSE)
-- QEMU/KVM, VirtualBox
+- Amazon Web Services, Microsoft Azure
+- Terraform/OpenTofu, Ansible, Pulimi, Packer
+- NixOS, Debian/Ubuntu, Fedora/Silverblue/CentOS/RHEL, OpenSUSE, Arch/Artix, Void, Windows
 
 ### 🚀 Containers & Orchestration
-- Kubernetes (RKE2/EKS/k3s), Rancher
+- Kubernetes: EKS/AKS, RKE2/k3s
 - Docker, Podman
-- Helm, ArgoCD
+- Helm Charts
 - NGINX Ingress
-- GitOps practices
+- GitOps practices: ArgoCD, Rancher
+- QEMU/KVM, VirtualBox, Distrobox
 
 ### 🔄 CI/CD & Security
-- GitHub Actions
-- HashiCorp Vault
-- Trivy, SysDig, SonarQube
-- AppArmor, iptables, SELinux
-- OpenVPN, WireGuard, Mullvad
-- Wireshark
+- GitHub Actions, GitLab CI
+- HashiCorp Vault, Mozilla SOPS, AWS Secret Manager/Azure Key Vault
+- Trivy, SysDig, SonarQube, Qualys
+- AppArmor, SELinux, iptables
+- OpenVPN, WireGuard
 
 ### 📊 Monitoring & Backup
-- Prometheus, Grafana
-- Loki, Promtail
-- ELK Stack
+
+- PLG Stack: Grafana + Prometheus + Loki + Promtail
+- ELK Stack: Kibana + ElasticSearch + Logstash + Filebeat
+- Falco
 - Velero
 - Veeam
+- Wireshark
 
 ### 🏆 Certifications
-- CKS, CKA, CKAD
-- AWS Solutions Architect Associate
-- HashiCorp Terraform Associate
-- LFCS
-- Azure Fundamentals (AZ-900)
+- Certified Kubernetes: Security Specialist - CKS
+- Certified Kubernetes: Application Developer - CKAD
+- Certified Kubernetes: Administrator - CKA
+- Linux Foundation: System Administrator - LFCS
+- HashiCorp: Terraform - Associate 003
+- Microsoft Azure Fundamentals AZ-900
+- AWS: Solution Architect - Associate
+- AWS: Cloud Practitioner
+
 
 ### 📫 Contact
 - Email: aleks.safronov@proton.me
@@ -45,8 +50,7 @@
 # My ThinkPad T14 Gen 4
 
 ### 🗄️ Core System
-- NixOS flakes
-- Linux Zen kernel
+- NixOS: Flakes, Home Manager. UnFree packages, Stable branch
 - systemd-boot
 - iwd for WiFi
 - Auto TRIM + auto GC
@@ -65,8 +69,7 @@
 - PolKit + PAM + U2F
 
 ### 💾 Storage & Backup
-- LUKS2 encryption
-- BTRFS with LUKS
+- BTRFS with LUKS2 encryption
 - Snapper auto-snapshots every 2 hour
 - Subvolumes for /, /home, /nix, /var, snapshots
 - zRAM for swap
@@ -74,12 +77,11 @@
 ### 🖥️ Desktop Stack
 - Hyprland (Wayland compositor)
 - WezTerm
-- Neovim
+- NeoVim
 - Zellij
 - Fish Shell
-- Catppuccin Macchiato Theme
 - Hardware acceleration via VA-API
-- Pipewire for audio
+- Pipewire
 
 ### 🐋 Dev Stack
 - Podman (rootless) for containers
