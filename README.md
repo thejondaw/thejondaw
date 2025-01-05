@@ -1,6 +1,6 @@
 <div align="center">
 
-# DevSecOps Engineer: STACK
+# 🛡️ DevSecOps Engineer: Technology Stack
 
 ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
@@ -26,33 +26,42 @@
 
 </div>
 
+## ☁️ Infrastructure & Cloud
+- **Providers**: *Amazon Web Services*, *Microsoft Azure*
+- **Infrastructure as Code**: *Terraform/OpenTofu*, *Ansible*, *Pulumi*, *Packer*
+- **Operating Systems**: *NixOS*, *Debian/Ubuntu*, *Fedora/Silverblue/CentOS/RHEL*, *OpenSUSE*, *Arch/Artix*, *Void*, *Windows*
 
-### ☁️ Infrastructure & Cloud
-- Amazon Web Services, Microsoft Azure
-- Terraform/OpenTofu, Ansible, Pulimi, Packer
-- NixOS, Debian/Ubuntu, Fedora/Silverblue/CentOS/RHEL, OpenSUSE, Arch/Artix, Void, Windows
+## 🐋 Containers & Orchestration
+- **Kubernetes**: *EKS/AKS*, *RKE2/k3s*
+- **Containerization**: *Docker*, *Podman*
+- **Package Management**: *Helm Charts*
+- **Ingress Control**: *NGINX Ingress*
+- **GitOps**: *ArgoCD*, *Rancher*
+- **Virtualization**: *QEMU/KVM*, *VirtualBox*, *Distrobox*
 
-### 🚀 Containers & Orchestration
-- Kubernetes: EKS/AKS, RKE2/k3s
-- Docker, Podman
-- Helm Charts
-- NGINX Ingress
-- GitOps practices: ArgoCD, Rancher
-- QEMU/KVM, VirtualBox, Distrobox
+## ⚙️ CI/CD & Security
+- **CI/CD**: *GitHub Actions*, *GitLab CI*
+- **Secrets Management**: *HashiCorp Vault*, *Mozilla SOPS*, *AWS Secrets Manager*, *Azure Key Vault*
+- **Security Tools**: *Trivy*, *SysDig*, *SonarQube*, *Qualys*
+- **System Security**: *AppArmor*, *SELinux*, *iptables*
+- **VPN Solutions**: *OpenVPN*, *WireGuard*
 
-### 🔄 CI/CD & Security
-- GitHub Actions, GitLab CI
-- HashiCorp Vault, Mozilla SOPS, AWS Secret Manager/Azure Key Vault
-- Trivy, SysDig, SonarQube, Qualys
-- AppArmor, SELinux, iptables
-- OpenVPN, WireGuard
+## 📶 Monitoring & Backup
+- **PLG Stack**: *Grafana*, *Prometheus*, *Loki*, *Promtail*
+- **ELK Stack**: *Kibana*, *ElasticSearch*, *Logstash*, *Filebeat*
+- **Additional Tools**: *Falco*, *Velero*, *Veeam*, *Wireshark*
 
-### 📊 Monitoring & Backup
-- PLG Stack: Grafana + Prometheus + Loki + Promtail
-- ELK Stack: Kibana + ElasticSearch + Logstash + Filebeat
-- Falco, Velero, Veeam, Wireshark
+## 💻 Development Environment
+- **OS**: *NixOS 24.11 (Hyprland + Wayland)*, *Linux Zen Kernel*
+- **Hardware**: *Thinkpad T14 Gen 4*
+- **Security**: *LUKS*, *BTRFS*, *SELinux*, *AppArmor*, *Firejail*, *ClamAV*, *Fail2ban*, *USBGuard*, *MAC Randomization*
+- **Networking**: *DNSCrypt*, *Mullvad VPN*
+- **Authentication**: *TPM2*, *Fingerprint*, *Yubikey*
+- **Development**: *HCL*, *YAML*, *JSON*, *Bash*, *Python*, *Go*
+- **Editors**: *VSCodium*, *NeoVim*
+- **Terminal**: *WezTerm*, *Fish Shell*, *Zellij*, *Starship*
 
-### 🏆 Certifications
+## 🏆 Certifications
 
 <div align="center">
 
@@ -78,44 +87,9 @@
 
 <div align="center">
 
-### 📫 Contacts
+## 📫 Contacts
 
 [![Telegram](https://img.shields.io/badge/-telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white&labelColor=0088cc)](https://t.me/jondaw)
 [![ProtonMail](https://img.shields.io/badge/-protonmail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&labelColor=505061)](mailto:aleks.safronov@proton.me)
 
 </div>
-
----
-
-<div align="center">
-
-# My Setup
-
-</div>
-
-### 💻 Operating System
-- NixOS 24.11 (Hyprland + Wayland)
-- Linux Zen Kernel
-- Thinkpad T14 Gen 4
-
-### 🛡️ Security & Privacy
-- LUKS Encryption + BTRFS
-- Snapper auto snapshots
-- SELinux + AppArmor
-- Firejail Sandboxing
-- ClamAV + Fail2ban
-- USBGuard + MAC Randomization
-- DNSCrypt + Mullvad VPN
-- Pass + Browserpass
-- TPM2 + Fingerprint + Yubikey
-
-### 💭 Code
-- HCL, YAML, JSON, Bash, Python, Go
-- VSCodium, NeoVim
-- Git + lazygit
-
-### 🖥️ Terminal
-- WezTerm + Fish Shell
-- Zellij + Starship
-- Core Utils: fzf, ripgrep, fd, bat
-- Monitoring: btm, bandwhich, gping
