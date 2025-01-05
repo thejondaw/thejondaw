@@ -69,7 +69,7 @@
 
 <div align="center">
 
-## 🏆 Certifications
+# 🏆 Certifications
 
 | Certification | Organization | ID/Level |
 |--------------|------------|----------|
