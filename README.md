@@ -32,7 +32,7 @@
 
 ## ☁️ Infrastructure & Cloud
 - **Providers**: *Amazon Web Services*, *Microsoft Azure*
-- **Infrastructure as Code**: *Terraform/OpenTofu*, *Ansible*, *Pulumi*, *Packer*
+- **Infrastructure as Code**: *Terraform/OpenTofu*, *Ansible*, *Pulumi*, *Packer*, *NixConfigs*
 - **Operating Systems**: *NixOS*, *Debian/Ubuntu*, *Fedora/Silverblue/CentOS/RHEL*, *OpenSUSE*, *Arch/Artix*, *Void*, *Windows*
 
 ## 🐋 Containers & Orchestration
@@ -61,7 +61,7 @@
 - **Security**: *LUKS*, *BTRFS*, *SELinux*, *AppArmor*, *Firejail*, *ClamAV*, *Fail2ban*, *USBGuard*, *MAC Randomization*
 - **Networking**: *DNSCrypt*, *Mullvad VPN*
 - **Authentication**: *TPM2*, *Fingerprint*, *Yubikey*
-- **Development**: *HCL*, *YAML*, *JSON*, *Bash*, *Python*, *Go*
+- **Development**: *HCL*, *YAML*, *JSON*, *NIX*, *Bash*, *Python*, *Go*
 - **Editors**: *VSCodium*, *NeoVim*
 - **Terminal**: *WezTerm*, *Fish Shell*, *Zellij*, *Starship*
 
