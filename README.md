@@ -53,7 +53,7 @@
 ## 📶 Monitoring & Backup
 - **PLG Stack**: *Grafana*, *Prometheus*, *Loki*, *Promtail*
 - **ELK Stack**: *Kibana*, *ElasticSearch*, *Logstash*, *Filebeat*
-- **Additional Tools**: *Falco*, *Velero*, *Veeam*, *Wireshark*
+- **Additional Tools**: *Datadog*, *Falco*, *Velero*, *Veeam*, *Wireshark*
 
 ## 💻 Development Environment
 - **OS**: *NixOS 24.11 (Hyprland + Wayland)*, *Linux Zen Kernel*
