@@ -32,7 +32,7 @@
 
 ## ☁️ Infrastructure & Cloud
 - **Providers**: *Amazon Web Services*, *Microsoft Azure*
-- **Infrastructure as Code**: *Terraform/OpenTofu*, *Ansible*, *Pulumi*, *Packer*, *NixConfigs*
+- **Infrastructure as Code**: *Terraform/OpenTofu (tflint, tfsec)*, *Ansible*, *Pulumi*, *Packer*, *NixConfigs*
 - **Operating Systems**: *NixOS*, *Debian/Ubuntu*, *Fedora/Silverblue/CentOS/RHEL*, *OpenSUSE*, *Arch/Artix*, *Void*, *Windows*
 
 ## 🐋 Containers & Orchestration
