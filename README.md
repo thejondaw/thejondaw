@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🛡️ DevSecOps Engineer: Technology Stack
+# 🛡️ `AGENT_PROFILE :: DEVSECOPS_MATRIX` ♾️
 
 ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
@@ -30,49 +30,51 @@
 
 </div>
 
-## ☁️ Infrastructure & Cloud
-- **Providers**: *Amazon Web Services*, *Microsoft Azure*
-- **Infrastructure as Code**: *Terraform/OpenTofu (tflint, tfsec)*, *Ansible*, *Pulumi*, *Packer*, *NixConfigs*
-- **Operating Systems**: *NixOS*, *Debian/Ubuntu*, *Fedora/Silverblue/CentOS/RHEL*, *OpenSUSE*, *Arch/Artix*, *Void*, *Windows*
+## 🏛️ INFRASTRUCTURE_MATRIX :: CLOUD_SYSTEMS ☁️
+- **Cloud Providers**: *Amazon Web Services* | *Microsoft Azure*
+- **Infrastructure Codex**: *Terraform/OpenTofu* | *Ansible* | *Pulumi* | *Packer* | *Nix Configs*
+- **Active Kernels**: *NixOS* | *Debian/Ubuntu* | *Fedora/Silverblue/CentOS/RHEL* | *OpenSUSE* | *Arch/Artix* | *Void* | *Windows* | *FreeBSD*
 
-## 🐋 Containers & Orchestration
-- **Kubernetes**: *EKS/AKS*, *RKE2/k3s*
-- **Containerization**: *Docker*, *Podman*
-- **Package Management**: *Helm Charts*
-- **Ingress Control**: *NGINX Ingress*
-- **GitOps**: *ArgoCD*, *Rancher*
-- **Virtualization**: *QEMU/KVM*, *VirtualBox*, *Distrobox*
+## 📦 CONTAINER_NEXUS :: ORCHESTRATION_UNIT 🐋
+- **Orchestration Engines**: *Kubernetes* (*EKS/AKS* | *RKE2/k3s*) | *AWS ECS Fargate*
+- **Contaier Matrix**: *Docker* | *Podman*
+- **PKGS Management**: *Helm Charts* | *nixpkgs* | *deb* | *rpm*
+- **Ingress Protocols**: *NGINX Ingress* | *Envoy*
+- **GitOps Protocols**: *ArgoCD* | *Rancher*
+- **Mesh Network**: *Istio* | *Consul*
+- **Serverless Units**: *AWS Lambda* | *Azure Functions*
+- **Virtualization Cores**: *QEMU/KVM* | *VirtualBox* | *Distrobox*
 
-## ⚙️ CI/CD & Security
-- **CI/CD**: *GitHub Actions*, *GitLab CI*
-- **Secrets Management**: *HashiCorp Vault*, *Mozilla SOPS*, *AWS Secrets Manager*, *Azure Key Vault*
-- **Security Tools**: *Trivy*, *SysDig*, *SonarQube*, *Qualys*
-- **System Security**: *AppArmor*, *SELinux*, *iptables*
-- **VPN Solutions**: *OpenVPN*, *WireGuard*
+## 🔃 SECURITY_MAINFRAME :: DEPLOYMENT_SECTOR 🔒
+- **CI/CD Matrix**: *GitHub Actions* | *GitLab CI* | *Bitbucket*
+- **Cryptographic Vault**: *HashiCorp Vault* | *Mozilla SOPS* | *AWS Secrets Manager* | *Azure Key Vault*
+- **Security Scanners**: *Trivy/tfsec* | *SysDig* | *SonarQube* | *Qualys*
+- **Kernel Protection**: *AppArmor* | *SELinux* | *iptables*
+- **Quantum Tunneling**: *OpenVPN* | *WireGuard*
 
-## 📶 Monitoring & Backup
-- **PLG Stack**: *Grafana*, *Prometheus*, *Loki*, *Promtail*
-- **ELK Stack**: *Kibana*, *ElasticSearch*, *Logstash*, *Filebeat*
-- **Additional Tools**: *Datadog*, *Falco*, *Velero*, *Veeam*, *Wireshark*
+## 📶 MONITORING_CLUSTER :: DATAFLOW_CONTROL 📋
+- **Metrics Collection**: *Grafana* | *Prometheus* | *Loki | Promtail* | *Datadog*
+- **Elastic Stack**: *Kibana* + *ElasticSearch* + *Logstash* + *Filebeat*
+- **Neural Enhancers**: *Falco* | *Velero* | *Veeam* | *Wireshark*
 
-## 💻 Development Environment
-- **OS**: *NixOS 24.11 (Hyprland + Wayland)*, *Linux Zen Kernel*
-- **Hardware**: *Thinkpad T14 Gen 4*
-- **Security**: *LUKS*, *BTRFS*, *SELinux*, *AppArmor*, *Firejail*, *ClamAV*, *Fail2ban*, *USBGuard*, *MAC Randomization*
-- **Networking**: *DNSCrypt*, *Mullvad VPN*
-- **Authentication**: *TPM2*, *Fingerprint*, *Yubikey*
-- **Development**: *HCL*, *YAML*, *JSON*, *NIX*, *Bash*, *Python*, *Go*
-- **Editors**: *VSCodium*, *NeoVim*
-- **Terminal**: *WezTerm*, *Fish Shell*, *Zellij*, *Starship*
+## 🔧 DEVELOPMENT_ZONE :: CUSTOM_ENVIRONMENT 💻
+- **System Core**: *NixOS 24.11 (Hyprland + Wayland)* | *Linux Zen Kernel*
+- **Hardware Unit**: *Thinkpad T14 Gen 4*
+- **Security Matrix**: *LUKS* | *BTRFS* | *SELinux* | *AppArmor* | *Firejail* | *ClamAV* | *Fail2ban* | *USBGuard* | *MAC Randomization*
+- **Network Shield**: *DNSCrypt* | *Mullvad VPN*
+- **Access Keys**: *TPM2* | *Fingerprint* | *Yubikey* | *KeyPassXC*
+- **Code Engines**: *HCL* | *YAML* | *JSON* | *NIX* | *Bash* | *Python* | *Go*
+- **Neural Interfaces**: *VSCodium* | *NeoVim*
+- **Command Center**: *WezTerm* | *Fish Shell* | *Zellij* | *Starship*
 
 ---
 
 <div align="center">
 
-# 🏆 Certifications
+# 🏆 `NEURAL_IMPLANTS :: CERTIFICATIONS` 📜
 
-| Certification | Organization | ID/Level |
-|--------------|------------|----------|
+| IMPLANT_TYPE | MANUFACTURER | SERIAL |
+|--------------|:----------:|:--------:|
 | Certified Kubernetes Security Specialist | Linux Foundation | CKS |
 | Certified Kubernetes Application Developer | Linux Foundation | CKAD |
 | Certified Kubernetes Administrator | Linux Foundation | CKA |
@@ -87,7 +89,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thejondaw&show_icons=true&theme=tokyonight"/>
 </div>
 
-## 📫 Contacts
+## 📫 Contacts 🌐
 
 [![Telegram](https://img.shields.io/badge/-telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white&labelColor=0088cc)](https://t.me/jondaw)
 [![ProtonMail](https://img.shields.io/badge/-protonmail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&labelColor=505061)](mailto:aleks.safronov@proton.me)
