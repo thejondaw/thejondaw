@@ -30,12 +30,12 @@
 
 </div>
 
-## 🏛️ INFRASTRUCTURE_MATRIX :: CLOUD_SYSTEMS ☁️
+### 🏛️ INFRASTRUCTURE_MATRIX :: CLOUD_SYSTEMS ☁️
 - **Cloud Providers**: *Amazon Web Services* | *Microsoft Azure*
 - **Infrastructure Codex**: *Terraform/OpenTofu* | *Ansible* | *Pulumi* | *Packer* | *Nix Configs*
 - **Active Kernels**: *NixOS* | *Debian/Ubuntu* | *Fedora/Silverblue/CentOS/RHEL* | *OpenSUSE* | *Arch/Artix* | *Void* | *Windows* | *FreeBSD*
 
-## 📦 CONTAINER_NEXUS :: ORCHESTRATION_UNIT 🐋
+### 📦 CONTAINER_NEXUS :: ORCHESTRATION_UNIT 🐋
 - **Orchestration Engines**: *Kubernetes* (*EKS/AKS* | *RKE2/k3s*) | *AWS ECS Fargate*
 - **Contaier Matrix**: *Docker* | *Podman*
 - **PKGS Management**: *Helm Charts* | *nixpkgs* | *deb* | *rpm*
@@ -45,19 +45,19 @@
 - **Serverless Units**: *AWS Lambda* | *Azure Functions*
 - **Virtualization Cores**: *QEMU/KVM* | *VirtualBox* | *Distrobox*
 
-## 🔃 SECURITY_MAINFRAME :: DEPLOYMENT_SECTOR 🔒
+### 🔃 SECURITY_MAINFRAME :: DEPLOYMENT_SECTOR 🔒
 - **CI/CD Matrix**: *GitHub Actions* | *GitLab CI* | *Bitbucket*
 - **Cryptographic Vault**: *HashiCorp Vault* | *Mozilla SOPS* | *AWS Secrets Manager* | *Azure Key Vault*
 - **Security Scanners**: *Trivy/tfsec* | *SysDig* | *SonarQube* | *Qualys*
 - **Kernel Protection**: *AppArmor* | *SELinux* | *iptables*
 - **Quantum Tunneling**: *OpenVPN* | *WireGuard*
 
-## 📶 MONITORING_CLUSTER :: DATAFLOW_CONTROL 📋
+### 📶 MONITORING_CLUSTER :: DATAFLOW_CONTROL 📋
 - **Metrics Collection**: *Grafana* | *Prometheus* | *Loki | Promtail* | *Datadog*
 - **Elastic Stack**: *Kibana* + *ElasticSearch* + *Logstash* + *Filebeat*
 - **Neural Enhancers**: *Falco* | *Velero* | *Veeam* | *Wireshark*
 
-## 🔧 DEVELOPMENT_ZONE :: CUSTOM_ENVIRONMENT 💻
+### 🔧 DEVELOPMENT_ZONE :: CUSTOM_ENVIRONMENT 💻
 - **System Core**: *NixOS 24.11 (Hyprland + Wayland)* | *Linux Zen Kernel*
 - **Hardware Unit**: *Thinkpad T14 Gen 4*
 - **Security Matrix**: *LUKS* | *BTRFS* | *SELinux* | *AppArmor* | *Firejail* | *ClamAV* | *Fail2ban* | *USBGuard* | *MAC Randomization*
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-# 🏆 `NEURAL_IMPLANTS :: CERTIFICATIONS` 📜
+## 🏆 `NEURAL_IMPLANTS :: CERTIFICATIONS` 📜
 
 | IMPLANT_TYPE | MANUFACTURER | SERIAL |
 |--------------|:----------:|:--------:|
@@ -89,7 +89,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thejondaw&show_icons=true&theme=tokyonight"/>
 </div>
 
-## 📫 Contacts 🌐
+## 📫 `QUANTUM_ENTANGLEMENT  ::  CONTACTS` 🌐
 
 [![Telegram](https://img.shields.io/badge/-telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white&labelColor=0088cc)](https://t.me/jondaw)
 [![ProtonMail](https://img.shields.io/badge/-protonmail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&labelColor=505061)](mailto:aleks.safronov@proton.me)
