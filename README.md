@@ -83,8 +83,8 @@
 | AWS Cloud Practitioner | Amazon | - |
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejondaw&layout=compact&theme=dark"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thejondaw&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejondaw&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thejondaw&show_icons=true&theme=tokyonight"/>
 </div>
 
 ## 📫 Contacts
