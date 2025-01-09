@@ -28,6 +28,8 @@
 ![Loki](https://img.shields.io/badge/-Loki-F5A800?style=flat-square&logo=grafana&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-ELK_Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
+> Hello, friend. Self-taught in DevSecOps, with a bit of paranoia about security and a desperate need for system order. I’m just a process running in an infinite loop of automation — except, unlike my code, I don’t always know where I’m going. Not everything is figured out yet — but that’s the glitch in the system, right?
+
 </div>
 
 ### 🏛️ INFRASTRUCTURE_MATRIX :: CLOUD_SYSTEMS ☁️
