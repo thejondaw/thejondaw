@@ -33,41 +33,41 @@
 </div>
 
 ### 🏛️ INFRASTRUCTURE_MATRIX :: CLOUD_SYSTEMS ☁️
-- **Cloud Providers**: *Amazon Web Services* | *Microsoft Azure*
-- **Infrastructure Codex**: *Terraform/OpenTofu* | *Ansible* | *Pulumi* | *Packer* | *Nix Configs*
-- **Active Kernels**: *NixOS* | *Debian/Ubuntu* | *Fedora/Silverblue/CentOS/RHEL* | *OpenSUSE* | *Arch/Artix* | *Void* | *Windows* | *FreeBSD*
+- **Cloud Providers**: Amazon Web Services | Microsoft Azure
+- **Infrastructure Codex**: Terraform/OpenTofu | Ansible | Pulumi | Packer | Nix Configs
+- **Active Kernels**: NixOS | Debian/Ubuntu | Fedora/Silverblue/CentOS/RHEL | OpenSUSE | Arch/Artix | Void | Windows | FreeBSD
 
 ### 📦 CONTAINER_NEXUS :: ORCHESTRATION_UNIT 🐋
-- **Orchestration Engines**: *Kubernetes* (*EKS/AKS* | *RKE2/k3s*) | *AWS ECS Fargate*
-- **Contaier Matrix**: *Docker* | *Podman*
-- **PKGS Management**: *Helm Charts* | *nixpkgs* | *deb* | *rpm*
-- **Ingress Protocols**: *NGINX Ingress* | *Envoy*
-- **GitOps Protocols**: *ArgoCD* | *Rancher*
-- **Mesh Network**: *Istio* | *Consul*
-- **Serverless Units**: *AWS Lambda* | *Azure Functions*
-- **Virtualization Cores**: *QEMU/KVM* | *VirtualBox* | *Distrobox*
+- **Orchestration Engines**: Kubernetes (EKS/AKS | RKE2/k3s) | AWS ECS Fargate
+- **Contaier Matrix**: Docker | Podman
+- **PKGS Management**: Helm Charts | nixpkgs | deb | rpm
+- **Ingress Protocols**: NGINX Ingress | Envoy
+- **GitOps Protocols**: ArgoCD | Rancher
+- **Mesh Network**: Istio | Consul
+- **Serverless Units**: AWS Lambda | Azure Functions
+- **Virtualization Cores**: QEMU/KVM | VirtualBox | Distrobox
 
 ### 🔃 SECURITY_MAINFRAME :: DEPLOYMENT_SECTOR 🔒
-- **CI/CD Matrix**: *GitHub Actions* | *GitLab CI* | *Bitbucket*
-- **Cryptographic Vault**: *HashiCorp Vault* | *Mozilla SOPS* | *AWS Secrets Manager* | *Azure Key Vault*
-- **Security Scanners**: *Trivy/tfsec* | *SysDig* | *SonarQube* | *Qualys*
-- **Kernel Protection**: *AppArmor* | *SELinux* | *iptables*
-- **Quantum Tunneling**: *OpenVPN* | *WireGuard*
+- **CI/CD Matrix**: GitHub Actions | GitLab CI | Bitbucket
+- **Cryptographic Vault**: HashiCorp Vault | Mozilla SOPS | AWS Secrets Manager | Azure Key Vault
+- **Security Scanners**: Trivy/tfsec | SysDig | SonarQube | Qualys
+- **Kernel Protection**: AppArmor | SELinux | iptables
+- **Quantum Tunneling**: OpenVPN | WireGuard
 
 ### 📶 MONITORING_CLUSTER :: DATAFLOW_CONTROL 📋
-- **Metrics Collection**: *Grafana* | *Prometheus* | *Loki | Promtail* | *Datadog*
-- **Elastic Stack**: *Kibana* + *ElasticSearch* + *Logstash* + *Filebeat*
-- **Neural Enhancers**: *Falco* | *Velero* | *Veeam* | *Wireshark*
+- **Metrics Collection**: Grafana | Prometheus | Loki | Promtail | Datadog
+- **Elastic Stack**: Kibana* + ElasticSearch + Logstash + Filebeat
+- **Neural Enhancers**: Falco | Velero | Veeam | Wireshark
 
 ### 🔧 DEVELOPMENT_ZONE :: CUSTOM_ENVIRONMENT 💻
-- **System Core**: *NixOS 24.11 (Hyprland + Wayland)* | *Linux Zen Kernel*
-- **Hardware Unit**: *Thinkpad T14 Gen 4*
-- **Security Matrix**: *LUKS* | *BTRFS* | *SELinux* | *AppArmor* | *Firejail* | *ClamAV* | *Fail2ban* | *USBGuard* | *MAC Randomization*
-- **Network Shield**: *DNSCrypt* | *Mullvad VPN*
-- **Access Keys**: *TPM2* | *Fingerprint* | *Yubikey* | *KeyPassXC*
-- **Code Engines**: *HCL* | *YAML* | *JSON* | *NIX* | *Bash* | *Python* | *Go*
-- **Neural Interfaces**: *VSCodium* | *NeoVim*
-- **Command Center**: *WezTerm* | *Fish Shell* | *Zellij* | *Starship*
+- **System Core**: NixOS 24.11 (Hyprland + Wayland) | Linux Zen Kernel
+- **Hardware Unit**: Thinkpad T14 Gen 4
+- **Security Matrix**: LUKS | BTRFS | SELinux | AppArmor | Firejail | ClamAV | Fail2ban | USBGuard | MAC Randomization
+- **Network Shield**: DNSCrypt | Mullvad VPN
+- **Access Keys**: TPM2 | Fingerprint | Yubikey | KeyPassXC
+- **Code Engines**: HCL | YAML | JSON | NIX | Bash | Python | Go
+- **Neural Interfaces**: VSCodium | NeoVim
+- **Command Center**: WezTerm | Fish Shell | Zellij | Starship
 
 ---
 
