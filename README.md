@@ -91,11 +91,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thejondaw&show_icons=true&theme=tokyonight"/>
 </div>
 
-## 📫 `QUANTUM_ENTANGLEMENT  ::  CONTACTS` 🌐
-
-[![Telegram](https://img.shields.io/badge/-telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white&labelColor=0088cc)](https://t.me/jondaw)
-[![ProtonMail](https://img.shields.io/badge/-protonmail-8B89CC?style=flat-square&logo=protonmail&logoColor=white&labelColor=505061)](mailto:aleks.safronov@proton.me)
-
 </div>
 
 <div align="center">
