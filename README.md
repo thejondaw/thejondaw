@@ -56,7 +56,7 @@
 
 ### 📶 MONITORING_CLUSTER :: DATAFLOW_CONTROL 📋
 - **Metrics Collection**: Grafana | Prometheus | Loki | Promtail | Datadog
-- **Elastic Stack**: Kibana* + ElasticSearch + Logstash + Filebeat
+- **Elastic Stack**: Kibana + ElasticSearch + Logstash + Filebeat
 - **Neural Enhancers**: Falco | Velero | Veeam | Wireshark
 
 ### 🔧 DEVELOPMENT_ZONE :: CUSTOM_ENVIRONMENT 💻
