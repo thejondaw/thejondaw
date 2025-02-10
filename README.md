@@ -50,6 +50,7 @@
 
 ### 📶 MONITORING :: LOGGING 📋
 - **Metrics Stack**: `Grafana` | `Prometheus` | `Loki` | `Promtail` | `Datadog`
+- **Elastic Stack**: `Kibana` + `ElasticSearch` + `Logstash` + `Filebeat`
 
 ### 🔧 DEVELOPMENT :: ENVIRONMENT 💻
 - **OS**: `NixOS 24.11 (Hyprland + Wayland)` | `Linux Zen Kernel`
