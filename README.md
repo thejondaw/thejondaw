@@ -27,39 +27,39 @@
 </div>
 
 ### 🏛️ INFRASTRUCTURE :: CLOUD_SYSTEM ☁️
-- **Cloud Providers**: [ `Amazon Web Services` | `Microsoft Azure` ]
-- **Infrastructure as Code**: [ `Terraform/OpenTofu` | `Ansible` | `Pulumi` | `Packer` | `Nix Configs` ]
-- **Operating Systems**: [ `NixOS` | `Debian/Ubuntu` | `Fedora/CentOS/RHEL` | `OpenSUSE` | `Arch/Artix` | `Void` | `Windows` | `FreeBSD` ]
+- **Cloud Providers**: `Amazon Web Services` | `Microsoft Azure`
+- **Infrastructure as Code**: `Terraform/OpenTofu` | `Ansible` | `Pulumi` | `Packer` | `Nix Configs`
+- **Operating Systems**: `NixOS` | `Debian/Ubuntu` | `Fedora/CentOS/RHEL` | `OpenSUSE` | `Arch/Artix` | `Void` | `Windows` | `FreeBSD`
 
 ### 📦 CONTAINERS :: ORCHESTRATION 🐋
-- **Orchestration Tools**: [ `Kubernetes (EKS/AKS | RKE2/k3s)` | `AWS ECS Fargate` ]
-- **Container Runtime**: [ `Docker` | `Podman` ]
-- **Package Management**: [ `Helm Charts` | `nixpkgs` | `deb` | `rpm` ]
-- **Load Balancing**: [ `NGINX Ingress` | `Envoy` ]
-- **GitOps Practices**: [ `ArgoCD` | `Rancher` | `Python Scripts` ]
-- **Service Mesh**: [ `Istio` | `Consul` ]
-- **FaaS**: [ `AWS Lambda` | `Azure Functions` ]
-- **Virtualization**: [ `QEMU/KVM` | `VirtualBox` | `Distrobox` ]
+- **Orchestration Tools**: `Kubernetes (EKS/AKS | RKE2/k3s)` | `AWS ECS Fargate`
+- **Container Runtime**: `Docker` | `Podman`
+- **Package Management**: `Helm Charts` | `nixpkgs` | `deb` | `rpm`
+- **Load Balancing**: `NGINX Ingress` | `Envoy`
+- **GitOps Practices**: `ArgoCD` | `Rancher` | `Python Scripts`
+- **Service Mesh**: `Istio` | `Consul`
+- **FaaS**: `AWS Lambda` | `Azure Functions`
+- **Virtualization**: `QEMU/KVM` | `VirtualBox` | `Distrobox`
 
 ### 🔃 SECURITY :: CI/CD 🔒
-- **Pipeline Tools**: [ `GitHub Actions` | `GitLab CI` | `Bitbucket` ]
-- **Secrets Management**: [ `HashiCorp Vault` | `Mozilla SOPS` | `AWS Secret Manager` | `Azure Key Vault` ]
-- **Security**: [ `Trivy/tfsec` | `SysDig` | `SonarQube` | `Qualys` | `Falco` | `Wireshark` | `Veeam`  | `Velero` ]
-- **Access Control**: [ `AppArmor` | `SELinux` | `iptables` ]
-- **VPN Solutions**: [ `OpenVPN` | `WireGuard` ]
+- **Pipeline Tools**: `GitHub Actions` | `GitLab CI` | `Bitbucket`
+- **Secrets Management**: `HashiCorp Vault` | `Mozilla SOPS` | `AWS Secret Manager` | `Azure Key Vault`
+- **Security**: `Trivy/tfsec` | `SysDig` | `SonarQube` | `Qualys` | `Falco` | `Wireshark` | `Veeam`  | `Velero`
+- **Access Control**: `AppArmor` | `SELinux` | `iptables`
+- **VPN Solutions**: `OpenVPN` | `WireGuard`
 
 ### 📶 MONITORING :: LOGGING 📋
-- **Metrics Stack**: [ `Grafana` | `Prometheus` | `Loki` | `Promtail` | `Datadog` ]
+- **Metrics Stack**: `Grafana` | `Prometheus` | `Loki` | `Promtail` | `Datadog`
 
 ### 🔧 DEVELOPMENT :: ENVIRONMENT 💻
-- **OS**: [ `NixOS 24.11 (Hyprland + Wayland)` | `Linux Zen Kernel` ]
-- **Hardware**: [ `Thinkpad T14 Gen 4` ]
-- **Security Tools**: [ `LUKS` | `BTRFS` | `SELinux` | `AppArmor` | `Firejail` | `ClamAV` | `Fail2ban` | `USBGuard` | `MAC Randomization` ]
-- **Network Security**: [ `DNSCrypt` | `Mullvad VPN` ]
-- **Auth**: [ `TPM2` | `Fingerprint` | `Yubikey` | `KeyPassXC` ]
-- **Languages**: [ `HCL` | `YAML` | `JSON` | `NIX` | `Bash` | `Python` | `Go` ]
-- **IDE**: [ `VSCodium` | `NeoVim` ]
-- **Terminal**: [ `WezTerm` | `Fish Shell` | `Zellij` | `Starship` ]
+- **OS**: `NixOS 24.11 (Hyprland + Wayland)` | `Linux Zen Kernel`
+- **Hardware**: `Thinkpad T14 Gen 4`
+- **Security Tools**: `LUKS` | `BTRFS` | `SELinux` | `AppArmor` | `Firejail` | `ClamAV` | `Fail2ban` | `USBGuard` | `MAC Randomization`
+- **Network Security**: `DNSCrypt` | `Mullvad VPN`
+- **Auth**: `TPM2` | `Fingerprint` | `Yubikey` | `KeyPassXC`
+- **Languages**: `HCL` | `YAML` | `JSON` | `NIX` | `Bash` | `Python` | `Go`
+- **IDE**: `VSCodium` | `NeoVim`
+- **Terminal**: `WezTerm` | `Fish Shell` | `Zellij` | `Starship`
 
 ---
 
@@ -77,10 +77,5 @@
 | Microsoft Azure Fundamentals | Microsoft | AZ-900 |
 | AWS Solution Architect | Amazon | Associate |
 | AWS Cloud Practitioner | Amazon | - |
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejondaw&layout=compact&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thejondaw&show_icons=true&theme=tokyonight"/>
-</div>
 
 </div>
