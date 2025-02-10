@@ -26,7 +26,7 @@
 
 </div>
 
-### 🏛️ INFRASTRUCTURE :: CLOUD_SYSTEM ☁️
+### 🏛️ INFRASTRUCTURE :: CLOUDS ☁️
 - **Cloud Providers**: `Amazon Web Services` | `Microsoft Azure`
 - **Infrastructure as Code**: `Terraform/OpenTofu` | `Ansible` | `Pulumi` | `Packer` | `Nix Configs`
 - **Operating Systems**: `NixOS` | `Debian/Ubuntu` | `Fedora/CentOS/RHEL` | `OpenSUSE` | `Arch/Artix` | `Void` | `Windows` | `FreeBSD`
