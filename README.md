@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-</div>
 
-<div align="center">
-
-# 🛡️ `AGENT_PROFILE :: DEVSECOPS_MATRIX` ♾️
+# 🛡️ ` : DEVSECOPS_ENGINEER : ` ♾️
 
 ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
@@ -28,54 +24,50 @@
 ![Loki](https://img.shields.io/badge/-Loki-F5A800?style=flat-square&logo=grafana&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-ELK_Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-> Hello, friend. Self-taught in DevSecOps, with a bit of paranoia about security and a desperate need for system order. I’m just a process running in an infinite loop of automation — except, unlike my code, I don’t always know where I’m going. Not everything is figured out yet — but that’s the glitch in the system, right?
-
 </div>
 
-### 🏛️ INFRASTRUCTURE_MATRIX :: CLOUD_SYSTEMS ☁️
-- **Cloud Providers**: Amazon Web Services | Microsoft Azure
-- **Infrastructure Codex**: Terraform/OpenTofu | Ansible | Pulumi | Packer | Nix Configs
-- **Active Kernels**: NixOS | Debian/Ubuntu | Fedora/Silverblue/CentOS/RHEL | OpenSUSE | Arch/Artix | Void | Windows | FreeBSD
+### 🏛️ INFRASTRUCTURE :: CLOUD_SYSTEM ☁️
+- **Cloud Providers**: [ `Amazon Web Services` | `Microsoft Azure` ]
+- **Infrastructure as Code**: [ `Terraform/OpenTofu` | `Ansible` | `Pulumi` | `Packer` | `Nix Configs` ]
+- **Operating Systems**: [ `NixOS` | `Debian/Ubuntu` | `Fedora/CentOS/RHEL` | `OpenSUSE` | `Arch/Artix` | `Void` | `Windows` | `FreeBSD` ]
 
-### 📦 CONTAINER_NEXUS :: ORCHESTRATION_UNIT 🐋
-- **Orchestration Engines**: Kubernetes (EKS/AKS | RKE2/k3s) | AWS ECS Fargate
-- **Contaier Matrix**: Docker | Podman
-- **PKGS Management**: Helm Charts | nixpkgs | deb | rpm
-- **Ingress Protocols**: NGINX Ingress | Envoy
-- **GitOps Protocols**: ArgoCD | Rancher
-- **Mesh Network**: Istio | Consul
-- **Serverless Units**: AWS Lambda | Azure Functions
-- **Virtualization Cores**: QEMU/KVM | VirtualBox | Distrobox
+### 📦 CONTAINERS :: ORCHESTRATION 🐋
+- **Orchestration Tools**: [ `Kubernetes (EKS/AKS | RKE2/k3s)` | `AWS ECS Fargate` ]
+- **Container Runtime**: [ `Docker` | `Podman` ]
+- **Package Management**: [ `Helm Charts` | `nixpkgs` | `deb` | `rpm` ]
+- **Load Balancing**: [ `NGINX Ingress` | `Envoy` ]
+- **GitOps Practices**: [ `ArgoCD` | `Rancher` | `Python Scripts` ]
+- **Service Mesh**: [ `Istio` | `Consul` ]
+- **FaaS**: [ `AWS Lambda` | `Azure Functions` ]
+- **Virtualization**: [ `QEMU/KVM` | `VirtualBox` | `Distrobox` ]
 
-### 🔃 SECURITY_MAINFRAME :: DEPLOYMENT_SECTOR 🔒
-- **CI/CD Matrix**: GitHub Actions | GitLab CI | Bitbucket
-- **Cryptographic Vault**: HashiCorp Vault | Mozilla SOPS | AWS Secrets Manager | Azure Key Vault
-- **Security Scanners**: Trivy/tfsec | SysDig | SonarQube | Qualys
-- **Kernel Protection**: AppArmor | SELinux | iptables
-- **Quantum Tunneling**: OpenVPN | WireGuard
+### 🔃 SECURITY :: CI/CD 🔒
+- **Pipeline Tools**: [ `GitHub Actions` | `GitLab CI` | `Bitbucket` ]
+- **Secrets Management**: [ `HashiCorp Vault` | `Mozilla SOPS` | `AWS Secret Manager` | `Azure Key Vault` ]
+- **Security**: [ `Trivy/tfsec` | `SysDig` | `SonarQube` | `Qualys` | `Falco` | `Wireshark` | `Veeam`  | `Velero` ]
+- **Access Control**: [ `AppArmor` | `SELinux` | `iptables` ]
+- **VPN Solutions**: [ `OpenVPN` | `WireGuard` ]
 
-### 📶 MONITORING_CLUSTER :: DATAFLOW_CONTROL 📋
-- **Metrics Collection**: Grafana | Prometheus | Loki | Promtail | Datadog
-- **Elastic Stack**: Kibana + ElasticSearch + Logstash + Filebeat
-- **Neural Enhancers**: Falco | Velero | Veeam | Wireshark
+### 📶 MONITORING :: LOGGING 📋
+- **Metrics Stack**: [ `Grafana` | `Prometheus` | `Loki` | `Promtail` | `Datadog` ]
 
-### 🔧 DEVELOPMENT_ZONE :: CUSTOM_ENVIRONMENT 💻
-- **System Core**: NixOS 24.11 (Hyprland + Wayland) | Linux Zen Kernel
-- **Hardware Unit**: Thinkpad T14 Gen 4
-- **Security Matrix**: LUKS | BTRFS | SELinux | AppArmor | Firejail | ClamAV | Fail2ban | USBGuard | MAC Randomization
-- **Network Shield**: DNSCrypt | Mullvad VPN
-- **Access Keys**: TPM2 | Fingerprint | Yubikey | KeyPassXC
-- **Code Engines**: HCL | YAML | JSON | NIX | Bash | Python | Go
-- **Neural Interfaces**: VSCodium | NeoVim
-- **Command Center**: WezTerm | Fish Shell | Zellij | Starship
+### 🔧 DEVELOPMENT :: ENVIRONMENT 💻
+- **OS**: [ `NixOS 24.11 (Hyprland + Wayland)` | `Linux Zen Kernel` ]
+- **Hardware**: [ `Thinkpad T14 Gen 4` ]
+- **Security Tools**: [ `LUKS` | `BTRFS` | `SELinux` | `AppArmor` | `Firejail` | `ClamAV` | `Fail2ban` | `USBGuard` | `MAC Randomization` ]
+- **Network Security**: [ `DNSCrypt` | `Mullvad VPN` ]
+- **Auth**: [ `TPM2` | `Fingerprint` | `Yubikey` | `KeyPassXC` ]
+- **Languages**: [ `HCL` | `YAML` | `JSON` | `NIX` | `Bash` | `Python` | `Go` ]
+- **IDE**: [ `VSCodium` | `NeoVim` ]
+- **Terminal**: [ `WezTerm` | `Fish Shell` | `Zellij` | `Starship` ]
 
 ---
 
 <div align="center">
 
-## 🏆 `NEURAL_IMPLANTS :: CERTIFICATIONS` 📜
+## 🏆 ` : CERTIFICATIONS : ` 📜
 
-| IMPLANT_TYPE | MANUFACTURER | SERIAL |
+| CERTIFICATION | PROVIDER | LEVEL |
 |--------------|:----------:|:--------:|
 | Certified Kubernetes Security Specialist | Linux Foundation | CKS |
 | Certified Kubernetes Application Developer | Linux Foundation | CKAD |
@@ -91,8 +83,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thejondaw&show_icons=true&theme=tokyonight"/>
 </div>
 
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 </div>
